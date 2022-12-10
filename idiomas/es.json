@@ -1,0 +1,22 @@
+{
+    "comandos": {
+        "ajustes": {
+            "prefix": {
+                "variable1": "❌ Tienes que especificar el prefijo nuevo para el Bot!",
+                "variable2": "`✅ Cambiado el Prefijo de \\`${prefix}\\` a \\`${args[0]}\\``"
+            },
+            "set-language": {
+                "variable1": "`❌ Tienes que especificar el idioma nuevo para el Bot!\n**Idiomas disponibles**: ${idiomas.map(idioma => `\\`${idioma}\\``).join(', ')}`",
+                "variable2": "`❌ Tienes que especificar un idioma válido para el Bot!\n**Idiomas disponibles**: ${idiomas.map(idioma => `\\`${idioma}\\``).join(', ')}`",
+                "variable3": "`✅ Cambiado el Idioma de \\`${idioma}\\` a \\`${args[0]}\\``"
+
+            },
+            "claim": {
+                "variable1": "❌ **La clave que has mencionado ya ha sido utilizada!**",
+                "variable2": "`✅ **Se han activado las funciones premium en este servidor!**\nExpirará en <t:${Math.round((Date.now() + Number(clave.duracion)) / 1000)}:R>`",
+                "variable3": "❌ **No se ha encontrado la clave que has especificado!**"
+            
+            }
+        }
+    }
+}
