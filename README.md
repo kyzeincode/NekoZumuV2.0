@@ -1,7 +1,6 @@
 # Bot Público y Servidor de Soporte!
 
-<a href="https://discord.gg/UBpQKY3XqG"><img src="https://discord.com/api/guilds/1032108426651783240/widget.png?style=banner2"></a>
-<iframe src="https://discord.com/widget?id=1037128268664545280&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.gg/UBpQKY3XqG"><img src="https://discord.com/api/guilds/1037128268664545280/widget.png?style=banner2"></a>
  
 ¿No quieres o no puedes hostearlo?
 [**Invita la versión oficial del Bot**](https://discord.com/oauth2/authorize?client_id=1031389165838934017&scope=bot&permissions=302728407167)
